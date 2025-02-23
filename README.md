@@ -47,6 +47,34 @@ Enter the password to unlock the secret message.
 
 ![image](https://github.com/user-attachments/assets/2accae6e-3a8f-416d-9f45-8d22dd483166)
 
+FEATURES:
+
+Invisible Encryption: 
+
+The image looks untouched even after the message is hidden.
+
+Password-Protected: 
+
+Only users with the correct passcode can decrypt the hidden text.
+
+Lightweight & Fast: 
+
+No heavy dependencies, just OpenCV for image processing.
+
+Supports Multiple Formats: 
+
+Works with JPEG, PNG, BMP, and more without quality loss.
+
+
+PROJECT STRUCTURE:
+
+📂 Steganography-Project
+ ├── encrypt.py  # Script to hide messages inside images
+ ├── decrypt.py  # Script to extract hidden messages
+ ├── encryptedImage.jpg  # Sample encrypted image
+ ├── README.md  # Project documentation
+
+
 
 
 
