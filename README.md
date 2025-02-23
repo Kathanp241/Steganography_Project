@@ -9,8 +9,7 @@ This Project lets you implement the image-based steganography, by hiding the mes
 
 **Encryption (Hiding the Message)**
 
-The user enters a secret message and a password.
-
+The user enters a secret message and a password.</br>
 The message is embedded inside an image at the pixel level.
 
 The modified image is saved and looks just like the original.
