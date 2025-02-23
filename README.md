@@ -70,8 +70,11 @@ PROJECT STRUCTURE:
 
 📂 Steganography-Project
  ├── encrypt.py  # Script to hide messages inside images
+ 
  ├── decrypt.py  # Script to extract hidden messages
+ 
  ├── encryptedImage.jpg  # Sample encrypted image
+ 
  ├── README.md  # Project documentation
 
 
