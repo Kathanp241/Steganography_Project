@@ -1,6 +1,7 @@
 SECURE DATA HIDING IN IMAGE USING STEGANOGRAPHY
 
 INTRODUCTION:
+
 Ever wanted to send secret message without drawing any attention?
 This Project lets you implement the image-based steganography, by hiding the messages within images. Steganography add's an extra layer of the invisibility that old traditional can't provide.It can be only access by the authorise person who have pass key to unlock the file.
 
